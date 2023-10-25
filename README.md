@@ -35,7 +35,8 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-## What was used for the project
+## What we used for the project
 
-Started with Next.js and
-# fullstack-ai-nextjs
+Started with Next.js and [Clerk](https://clerk.com/docs). Clerk was used to for authentication. A web hook was used to save user data to store their data.
+
+We also used [Planetscale](https://planetscale.com/) and [Prisma](https://www.prisma.io/).
